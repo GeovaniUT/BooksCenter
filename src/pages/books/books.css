@@ -1,0 +1,43 @@
+.cards{
+
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.flex{
+    display: flex;
+}
+
+.book img {
+    width: 200px;
+    height: 250px;
+    object-fit: none;
+
+}
+
+.list{
+    list-style: none;
+}
+.book{
+    border-style:groove;
+    border-radius: 10px;
+      
+}
+
+.books{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 70px;
+    
+    
+}
+
+.title{
+    margin-left: 600px;
+    margin-bottom: 25px;
+    color:brown;
+}

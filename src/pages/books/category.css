@@ -1,0 +1,38 @@
+
+.category{
+    display:flex;
+    border: solid;
+    list-style: none;
+    gap:100px;
+    padding-left: 200px;
+    height: 40px;
+    padding-top: 15px;
+    border-style: groove;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding-bottom: 7px;
+}
+
+.container{
+    margin-bottom: 50px;
+
+}
+
+.line{
+
+    border-right:solid#C0C0C0;
+    padding-right: 100px;
+    
+}
+
+.link{
+    cursor: pointer;
+}
+
+.info{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    flex-wrap: wrap;
+}

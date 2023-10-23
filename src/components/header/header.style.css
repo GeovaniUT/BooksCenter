@@ -1,0 +1,23 @@
+
+.flex {
+    display: flex;
+
+}
+.navbar {
+    list-style: none;
+    background-color: #25272a;
+    color: white;
+    padding-top: 10px;
+    padding-left: 70px;
+    height: 40px;
+    gap: 100px;
+}
+
+.user {
+    margin-left: 700px;
+}
+
+.link {
+    text-decoration: none !important;
+    cursor: pointer;
+}
